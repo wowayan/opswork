@@ -1,2 +1,2 @@
 This is the change
-i did another change
+i deleted the change
